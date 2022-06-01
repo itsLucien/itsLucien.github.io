@@ -1,6 +1,6 @@
 ---
 layout: none
-title: License
+title: MIT License
 permalink: /license/
 ---
 MIT License
