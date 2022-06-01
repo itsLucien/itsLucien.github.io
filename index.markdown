@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Hi!
+Welcome to my site. Here I share my thoughts on my technical work and some internal ramblings of my personal hobbies, namely tabletop roleplaying games and reading speculative fiction (science fiction & fantasy).
